@@ -1,0 +1,4 @@
+Hello everyone learning git commands
+git status
+git push origin main
+git --list
